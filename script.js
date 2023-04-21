@@ -28,8 +28,7 @@ reset.addEventListener('click', () => {
         document.querySelector("#reset").innerHTML="Play Again"
     },500)
 
-    const myElement = document.getElementById('myElement');
-myElement.style.transition = 'transform 1s ease-in-out';
+
  
 
    
